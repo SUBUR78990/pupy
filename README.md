@@ -51,7 +51,7 @@ Pupy is a cross-platform, multi function RAT and post-exploitation tool mainly w
 
 - Generate payloads in various formats:
 
-| Format | Architecture | Short Name |
+| Format | Architecture  Short Name |
 |---|---|---|
 Android Package | x86 & ARMv7 | apk
 Linux Binary | x86 | lin_x86
