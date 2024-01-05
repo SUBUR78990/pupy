@@ -1,4 +1,4 @@
-pycryptodome==3.7.0
+pycryptodome==3.19.1
 pyaes
 psutil
 rsa
